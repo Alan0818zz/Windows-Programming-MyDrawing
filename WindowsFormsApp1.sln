@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDrawing", "WindowsFormsApp1\MyDrawing.csproj", "{082826A0-8FF7-4805-9FD6-FE8335905F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDrawingTests", "MyDrawingTests\MyDrawingTests.csproj", "{26F1FEC7-9502-4161-A2BC-91F8496473EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082826A0-8FF7-4805-9FD6-FE8335905F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082826A0-8FF7-4805-9FD6-FE8335905F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082826A0-8FF7-4805-9FD6-FE8335905F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082826A0-8FF7-4805-9FD6-FE8335905F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F1FEC7-9502-4161-A2BC-91F8496473EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F1FEC7-9502-4161-A2BC-91F8496473EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F1FEC7-9502-4161-A2BC-91F8496473EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F1FEC7-9502-4161-A2BC-91F8496473EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE3C775-B03D-48B8-BCB2-EC9014B25C9E}
+	EndGlobalSection
+EndGlobal
